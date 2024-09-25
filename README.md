@@ -2,7 +2,7 @@
 Loja de equipamentos de Ti
 
 # COMO RODAR
-  1. Clone meu repositório na sua maquina
+  1. Clone meu repositório na sua maquina\
   1.1 `git clone https://github.com/emanuelfrx/manueltechstore.git`\
   1.2`cd repositorio`\
   1.3` code .` para abri o Visual Studio Code\
